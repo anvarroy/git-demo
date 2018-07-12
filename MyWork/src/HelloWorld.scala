@@ -5,5 +5,8 @@ object HelloWorld {
     println("Hello Anvar")
     println("Welcome to Scala thru Eclipse")
     
+    println("Hello Soma")
+    println("Hello Sathish")
+    println("Hello Pandiyan")
   }
 }

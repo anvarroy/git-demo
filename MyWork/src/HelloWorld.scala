@@ -8,5 +8,9 @@ object HelloWorld {
     println("Hello Soma")
     println("Hello Sathish")
     println("Hello Pandiyan")
+    
+    println("Hello Tony")
+    println("Hello Rio")
+        
   }
 }
